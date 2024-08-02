@@ -1,2 +1,2 @@
-# Lab AWS EC2
-This repo demonstrates how deploy multiple EC2 instances on AWS
+# AWS EC2 Project
+This repo demonstrates how to deploy multiple EC2 instances on AWS
